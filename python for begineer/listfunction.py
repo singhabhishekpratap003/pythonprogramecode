@@ -1,0 +1,17 @@
+list = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]
+list1 = [17,18,19,11,15,8,9,5,6,7,12,11,16,15]
+#print(list)
+#list.append(25)
+#print(list)
+#list.extend(list1)
+#print(list)
+#list.insert(6,9)
+#print(list)
+#list.remove(9)
+#print(list)
+#list.pop()
+#print(list)
+#list.pop(9)
+#print(list)
+#list.clear()
+#print(list)
